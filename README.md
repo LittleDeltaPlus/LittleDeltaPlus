@@ -1,5 +1,5 @@
-### Hi! Welcome to my GitHub Profile 👋
-This readme is a bit of a placeholder until I have something more to say.
+### Hi! glad you're here 👋
+I don't have much to say... Have a look at my coursework repos maybe?
 <!--
 **LittleDeltaPlus/LittleDeltaPlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
