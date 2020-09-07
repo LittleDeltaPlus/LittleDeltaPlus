@@ -1,5 +1,5 @@
 ### Hi! glad you're here 👋
-I don't have much to say... Have a look at my coursework repos maybe?
+I don't have much to say while I get some repos ready for you to see... 
 <!--
 **LittleDeltaPlus/LittleDeltaPlus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
