@@ -7,7 +7,7 @@
 | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=seamus.d&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)   | And this is what I'm currently bumping on spotify!        |
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LittleDeltaPlus&repo=StickyCEF)](https://github.com/LittleDeltaPlus/StickyCEF)| This is my thesis project! |
 
-_shh, don't tell anyone but if you're here you can have a peek at this [WIP game](https://lil-delta.dev/NoBones/Game)... 👀_
+_shh, don't tell anyone but if you're here you can have a peek at this [WIP game](https://lil-delta.dev/NoBonesGame)... 👀_
 
 
 
